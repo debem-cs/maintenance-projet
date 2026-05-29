@@ -1,0 +1,26 @@
+{
+    "python.defaultInterpreterPath": "${workspaceFolder}/.venv/Scripts/python.exe",
+    "files.exclude": {
+        "**/venv": true,
+        "**/__pycache__": true,
+        "**/*.pyc": true,
+        "**/*.pyd": true,
+        "**/*.so": true,
+        "**/dist": true,
+        "**/build": true,
+        "**/*.egg-info": true,
+        "**/.eggs": true,
+        "**/.DS_Store": true,
+        "**/Thumbs.db": true,
+        "**/*.aux": true,
+        "**/*.fdb_latexmk": true,
+        "**/*.fls": true,
+        "**/*.log": true,
+        "**/*.synctex.gz": true,
+        "**/*.nav": true,
+        "**/*.snm": true,
+        "**/*.toc": true,
+        "**/*.out": true,
+        "**/*.vrb": true
+    }
+}
